@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w800dp-v13/values-w800dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "from": {
+                        "startLines": "23,18,19,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "868,670,718,797",
+                        "endColumns": "53,47,55,49",
+                        "endOffsets": "917,713,769,842"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,109,157,213",
+                        "endColumns": "53,47,55,49",
+                        "endOffsets": "104,152,208,258"
+                    }
+                }
+            ]
+        }
+    ]
+}

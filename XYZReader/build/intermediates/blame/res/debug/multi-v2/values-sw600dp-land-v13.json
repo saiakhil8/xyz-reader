@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
+                    "from": {
+                        "startLines": "18,21,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "672,769,717",
+                        "endColumns": "43,54,51",
+                        "endOffsets": "711,819,764"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,99,154",
+                        "endColumns": "43,54,51",
+                        "endOffsets": "94,149,201"
+                    }
+                }
+            ]
+        }
+    ]
+}

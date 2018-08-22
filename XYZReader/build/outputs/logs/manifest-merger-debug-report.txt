@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:17:1-68:12
+MERGED from [com.android.support:design:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/08d47b3c7ae08457c3719ec1bc5d7517/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/340c5a95d8b921023bdbbd30bd67e798/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d12185c2dc9dc913641ff155cfe7074/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/912d160ee3e4a13a0826092d4c9af334/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/601bcd8735e16021f6f2c2c75798f339/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/1141834cc1debbe515d1b60ec530c717/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d12e30e626de15e4b199732d7ca24f4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0efaaab40e6f78277d9c2c44c2204629/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5051cc4da9d14d1d58464f28819c8e1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9dee579a5ff3145053e7b5e780941f4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8759de7d33b2d8de0f5528b1fbae38db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3eb232f8e432d9b00a4455c305196d72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0ba4cdf6e9f2baedf2171cc38c94a455/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ce96054747611ba119ce95cc96e0fde/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/99dff3d81ccb9489c4326a0582ac6713/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/351a3a7c29778e87f332a31e7165452b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/15342366f1606c99255dab724aee1348/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/551b0f36f770a78982e5706882f07d6b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:17:1-68:12
+	package
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:18:5-36
+	android:versionName
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:24:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:25:22-76
+application
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:27:5-66:19
+	android:label
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:31:9-48
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:34:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:38:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:42:9-54:20
+	android:parentActivityName
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:45:13-65
+	android:theme
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:43:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.VIEW
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:48:27-73
+data
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:49:17-100
+	android:mimeType
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:49:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:51:13-53:59
+	android:value
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:53:17-56
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:52:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:56:9-57:40
+	android:exported
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:56:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:59:9-61:40
+	android:authorities
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:60:13-56
+	android:exported
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:59:19-53
+meta-data#preloaded_fonts
+ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:62:9-64:57
+	android:resource
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:64:13-54
+	android:name
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml:63:13-43
+uses-sdk
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/08d47b3c7ae08457c3719ec1bc5d7517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/08d47b3c7ae08457c3719ec1bc5d7517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/340c5a95d8b921023bdbbd30bd67e798/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/340c5a95d8b921023bdbbd30bd67e798/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d12185c2dc9dc913641ff155cfe7074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d12185c2dc9dc913641ff155cfe7074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/912d160ee3e4a13a0826092d4c9af334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/912d160ee3e4a13a0826092d4c9af334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/601bcd8735e16021f6f2c2c75798f339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/601bcd8735e16021f6f2c2c75798f339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/1141834cc1debbe515d1b60ec530c717/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/1141834cc1debbe515d1b60ec530c717/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d12e30e626de15e4b199732d7ca24f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d12e30e626de15e4b199732d7ca24f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0efaaab40e6f78277d9c2c44c2204629/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0efaaab40e6f78277d9c2c44c2204629/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5051cc4da9d14d1d58464f28819c8e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5051cc4da9d14d1d58464f28819c8e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9dee579a5ff3145053e7b5e780941f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9dee579a5ff3145053e7b5e780941f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8759de7d33b2d8de0f5528b1fbae38db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8759de7d33b2d8de0f5528b1fbae38db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3eb232f8e432d9b00a4455c305196d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3eb232f8e432d9b00a4455c305196d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0ba4cdf6e9f2baedf2171cc38c94a455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0ba4cdf6e9f2baedf2171cc38c94a455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ce96054747611ba119ce95cc96e0fde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ce96054747611ba119ce95cc96e0fde/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/99dff3d81ccb9489c4326a0582ac6713/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/99dff3d81ccb9489c4326a0582ac6713/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/351a3a7c29778e87f332a31e7165452b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/351a3a7c29778e87f332a31e7165452b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/15342366f1606c99255dab724aee1348/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/15342366f1606c99255dab724aee1348/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/551b0f36f770a78982e5706882f07d6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/saiakhil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/551b0f36f770a78982e5706882f07d6b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/AndroidManifest.xml
