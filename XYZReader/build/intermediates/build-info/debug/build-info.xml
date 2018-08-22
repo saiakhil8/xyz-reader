@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1534963661739"
+    timestamp="1534963732901"
     token="-1818384027180055297"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,10 +22,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-        type="SPLIT" />
 
     <build
         build-mode="FULL"
@@ -79,5 +75,9 @@
             location="/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1534963732901"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
