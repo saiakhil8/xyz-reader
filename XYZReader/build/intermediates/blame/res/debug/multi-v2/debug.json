@@ -399,28 +399,6 @@
             ]
         },
         {
-            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-w800dp-v13_values-w800dp-v13.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
-                    "from": {
-                        "startLines": "23,18,19,20",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "868,670,718,797",
-                        "endColumns": "53,47,55,49",
-                        "endOffsets": "917,713,769,842"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,109,157,213",
-                        "endColumns": "53,47,55,49",
-                        "endOffsets": "104,152,208,258"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
             "map": [
                 {
@@ -448,6 +426,28 @@
                         "startOffsets": "105,216,321,429,516,620,731,809,888,968,1080,1189,1286,1395,1498,1605,1764,1865",
                         "endColumns": "110,104,107,86,103,110,77,78,79,111,108,96,108,102,106,158,100,79",
                         "endOffsets": "211,316,424,511,615,726,804,883,963,1075,1184,1281,1390,1493,1600,1759,1860,1940"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-w800dp-v13_values-w800dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "from": {
+                        "startLines": "23,18,19,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "868,670,718,797",
+                        "endColumns": "53,47,55,49",
+                        "endOffsets": "917,713,769,842"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,109,157,213",
+                        "endColumns": "53,47,55,49",
+                        "endOffsets": "104,152,208,258"
                     }
                 }
             ]
@@ -629,21 +629,6 @@
             ]
         },
         {
-            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/res/values-en-rCA/values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat",
             "map": [
                 {
@@ -671,6 +656,21 @@
                         "startOffsets": "105,208,309,419,508,614,729,811,892,977,1084,1191,1290,1400,1507,1607,1764,1863",
                         "endColumns": "102,100,109,88,105,114,81,80,84,106,106,98,109,106,99,156,98,81",
                         "endOffsets": "203,304,414,503,609,724,806,887,972,1079,1186,1285,1395,1502,1602,1759,1858,1940"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
                     }
                 }
             ]
@@ -936,10 +936,10 @@
             ]
         },
         {
-            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ce96054747611ba119ce95cc96e0fde/res/values-is/values-is.xml",
+                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ce96054747611ba119ce95cc96e0fde/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -950,19 +950,19 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1916",
+                        "startOffsets": "1824",
                         "endColumns": "100",
-                        "endOffsets": "2012"
+                        "endOffsets": "1920"
                     }
                 },
                 {
-                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/res/values-is/values-is.xml",
+                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,205,302,414,499,600,714,794,874,955,1065,1173,1271,1380,1479,1582,1737,1835",
-                        "endColumns": "99,96,111,84,100,113,79,79,80,109,107,97,108,98,102,154,97,80",
-                        "endOffsets": "200,297,409,494,595,709,789,869,950,1060,1168,1266,1375,1474,1577,1732,1830,1911"
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
                     }
                 }
             ]
@@ -1000,10 +1000,10 @@
             ]
         },
         {
-            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "outputFile": "/Users/saiakhil/Desktop/udacity-projects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ce96054747611ba119ce95cc96e0fde/res/values-ko/values-ko.xml",
+                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ce96054747611ba119ce95cc96e0fde/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1014,19 +1014,19 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1824",
+                        "startOffsets": "1916",
                         "endColumns": "100",
-                        "endOffsets": "1920"
+                        "endOffsets": "2012"
                     }
                 },
                 {
-                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/res/values-ko/values-ko.xml",
+                    "source": "/Users/saiakhil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/40bbcbfe76619fe9f515ea1965cade20/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
-                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
-                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
+                        "startOffsets": "105,205,302,414,499,600,714,794,874,955,1065,1173,1271,1380,1479,1582,1737,1835",
+                        "endColumns": "99,96,111,84,100,113,79,79,80,109,107,97,108,98,102,154,97,80",
+                        "endOffsets": "200,297,409,494,595,709,789,869,950,1060,1168,1266,1375,1474,1577,1732,1830,1911"
                     }
                 }
             ]
